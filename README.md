@@ -72,11 +72,7 @@ if __name__ == "__main__":
     run(main())
 ```
 
-What's not implemented yet:
-* downloading attachments
-* authorization with refresh tokens
-* pagination for some methods
+Issues: see the [list](https://github.com/junqed/wrapi/issues) in the github repo.
 
-What's would be good to add:
-* model's automapping based on "kind" field in response
-* autogenerating parameters for bodies and queries in base endpoints
+This library has nothing to do with Wrike LLC and made at my free time 
+as experiment to try httpx and pydantic in action.
