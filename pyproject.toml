@@ -2,7 +2,7 @@
 name = "wrapi"
 version = "0.1.0"
 description = ""
-authors = ["<junqed+github@gmail.com>"]
+authors = ["Junqed <junqed+github@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
